@@ -20,8 +20,8 @@ Library Scipy
 
 ## Reference
 
-[1]	A. Jafari, M. Zekri, S. Sadri, and A. R. Mallahzadeh, “Design of Analog Integrated Circuits by Using Genetic Algorithm,” pp. 2–5, 2010.
-[2]	H. Tao, G. Liao, and L. Wang, “Space-Borne Antenna Adaptive Side-Lobe Nulling Algorithm Based on Gradient-Genetic Algorithm,” pp. 733–736, 2004.
-[3]	E. Eiben, “Genetic algorithms with multi-parent recombination,” pp. 78–87, 1994. 
-[4]	E. Schultz, J. Mellander, C. Endorf, ”Intrusion Detection and Prevention - A basic genetic algorithm,” 2008. 
-[5]	N. Andrew, “Machine learning,” Standford University Online, lecture notes week 4, [online]: https://www.coursera.org/learn/machine-learning
+1.	A. Jafari, M. Zekri, S. Sadri, and A. R. Mallahzadeh, “Design of Analog Integrated Circuits by Using Genetic Algorithm,” pp. 2–5, 2010.
+2.	H. Tao, G. Liao, and L. Wang, “Space-Borne Antenna Adaptive Side-Lobe Nulling Algorithm Based on Gradient-Genetic Algorithm,” pp. 733–736, 2004.
+3.	E. Eiben, “Genetic algorithms with multi-parent recombination,” pp. 78–87, 1994. 
+4.E. Schultz, J. Mellander, C. Endorf, ”Intrusion Detection and Prevention - A basic genetic algorithm,” 2008. 
+5.N. Andrew, “Machine learning,” Standford University Online, lecture notes week 4, [online]: https://www.coursera.org/learn/machine-learning
