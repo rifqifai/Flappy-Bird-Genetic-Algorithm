@@ -1,6 +1,6 @@
 # Flappy Bird Genetic Algorithm
 
-Please visit [my blog post](https://rifqifai.com) for more detail.
+Please visit [my blog post](https://rifqifai.com/membuat-ai-dalam-game-flappy-bird-implementasi-algoritma-genetika-dan-aplikasi-model-pelatihan-multilayer-perceptron/) for more detail.
 
 ## Intisari
 
